@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("pull test");
         System.out.println("gitee test");
         System.out.println("gitee test2");
+        System.out.println("更新后测试GitHub提交是否正常");
     }
 }
